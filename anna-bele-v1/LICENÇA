@@ -1,0 +1,31 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <img src="img/capa.png" alt="capa" srcset="">
+    <ul>
+        <li>HOME</li>
+        <li>BIOGRAFIA</li>
+        <li>CAMPANHAS PUBLICITÁRIAS</li>
+        <li>CONTATO</li>
+    </ul>
+    <h1>Sobre Anna Bella</h1>
+    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima in similique, debitis pariatur
+        quam, explicabo illum perspiciatis impedit dolores fuga voluptates tenetur vero nostrum voluptas velit ut,
+        mollitia harum natus?</p>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem beatae velit asperiores magnam nostrum commodi,
+        dicta possimus sunt quasi sit dolores et laudantium iusto soluta architecto delectus officiis. Nesciunt,
+        quaerat.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ad atque corrupti, eveniet, tenetur voluptatem
+        alias aperiam, repellendus quod reiciendis distinctio tempora rem doloremque recusandae dicta officiis ducimus!
+        Facere, placeat.</p>
+
+</body>
+
+</html>
