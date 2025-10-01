@@ -1,0 +1,11 @@
+:root{
+    --cor-fundo-site: #d2d2c1;
+    --fonte-site: 16px;
+    --cor-fundo-menu: #c5c5b2;
+    --cor-menu: #45566a;
+    --cor-texto-menu: #4b566a;
+    --fonte-family-site: arial, helvetica, sans-serif;
+    --cor-fundo-conteudo: #ffffff;
+    --cor-texto-site: #4b566a;
+    --cor-texto-conteudo: #4b566a;
+}
